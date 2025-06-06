@@ -15,7 +15,7 @@ This task list helps track the progress of the PulseBase project based on the ge
 - [X] Create API Documentation Structure (`api_documentation.md`)
 - [X] Review and Finalize Technical Specifications (*Technical specifications (frontend, backend, API) reviewed for internal coherence and structure. Full finalization requires an architectural review session and consensus, which is an external step.*)
 - [x] Design detailed data models based on tech specs and PRD (*Completed, see `PULSEBASE.MD/data_models.md`*)
-- [ ] Design detailed component architecture for Frontend & Backend (*Awaiting further breakdown of tech specs*)
+- [X] Design detailed component architecture for Frontend & Backend (*Completed, see `PULSEBASE.MD/component_architecture.md`*)
 
 ## Phase 3: UI/UX Design
 - [X] Create UI/UX Flow Documentation (`ui_ux_flow.md`)
