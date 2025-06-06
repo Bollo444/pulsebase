@@ -20,7 +20,8 @@ This task list helps track the progress of the PulseBase project based on the ge
 ## Phase 3: UI/UX Design
 - [X] Create UI/UX Flow Documentation (`ui_ux_flow.md`)
 - [X] Develop Wireframes for key user flows identified in `ui_ux_flow.md` (*Completed, see `PULSEBASE.MD/wireframes.md`*)
-- [ ] Create High-Fidelity Mockups for the platform (*Awaiting completion of wireframes and definition of a style guide/design system*)
+- [ ] Define Style Guide & Design System (`PULSEBASE.MD/style_guide.md`) (*Initial structure created, requires detailed definitions*)
+- [ ] Create High-Fidelity Mockups for the platform (*Awaiting completion of `style_guide.md`*)
 - [ ] Conduct Usability Testing on Prototypes (*Awaiting creation of interactive prototypes and recruitment of test users*)
 
 ## Phase 4: Development Setup & Initial Implementation
